@@ -1,5 +1,5 @@
 # HEllo Buddy! I'm Hiroto.
-<img src="" width="600">
+<img src="https://raw.githubusercontent.com/Hiroto77/Hiroto/main/Assets/Yobuddy00.gif" width="600">
 
 ## Wassup? <img src="./assets/wave.gif" width="30px">
 
@@ -15,4 +15,4 @@
 
 #
 
-:copyright: prajjwaldatir
+:copyright: Hiroto77
