@@ -1,5 +1,5 @@
 # Hello Buddy!
-<img src="https://raw.githubusercontent.com/Hiroto77/Hiroto/main/Assets/Yobuddy00.gif" width="600">
+<img src="https://raw.githubusercontent.com/Hiroto77/Hiroto/main/Assets/Yobuddy00.gif" width="600"></br>
 
 ## Well. I'm Hiroto <img src="Assets/wave.gif" width="30px">
 
